@@ -1,0 +1,22 @@
+[DIFERENCIAS ENTRE LENGUAJES IMPERATIVOS Y DECLARATIVOS]
+
+	* Los lenguajes imperativos son lenguajes de bajo nivel en cambio los declarativos son de alto nivel.
+
+	* Los lenguajes imperativos se basan en "Como" se efectua una serie de instrucciones, por otro lado 
+	  los lenguajes declarativos se basan en "qué" es lo que se realizará.
+
+	* En los lenguajes imperativos se ejecutan sentencias de instrucciones/cambios directamente a la computadora
+	  en cambio los lenguajes declarativos no realizan dichas acciones.
+
+[EJEMPLO - LENGUAJE IMPERATIVO]
+
+	String Lista="";
+	for(int i=0; i<10; i++){
+		Lista+= i + ","; 
+	}
+	
+	System.out.print("La lista de los numeros de 1-10 es: " + Lista);
+
+[EJEMPLO - LENGUAJE DECLARATIVO]
+
+	IMPRIMIR Lista;
