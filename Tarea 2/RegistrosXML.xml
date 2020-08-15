@@ -1,0 +1,31 @@
+<Registros>
+
+    <Usuario id="1">
+        <Nombre>Carlos Antonio</Nombre>
+        <Universidad>Mariano Galvez</Universidad>
+        <Facultad>Ingenieria</Facultad>
+        <Ciclo>Noveno ciclo</Ciclo>
+    </Usuario>
+
+    <Usuario id="2">
+        <Nombre>Juan Jose</Nombre>
+        <Universidad>Rafael Landívar</Universidad>
+        <Facultad>Medicina</Facultad>
+        <Ciclo>Cuarto ciclo</Ciclo>
+    </Usuario>
+
+    <Usuario id="3">
+        <Nombre>Karen Morales</Nombre>
+        <Universidad>Universidad del Valle</Universidad>
+        <Facultad>Derecho</Facultad>
+        <Ciclo>Sexto ciclo</Ciclo>
+    </Usuario>
+
+    <Usuario id="4">
+        <Nombre>Javier Manuel</Nombre>
+        <Universidad>USAC</Universidad>
+        <Facultad>Humanidades</Facultad>
+        <Ciclo>Segundo ciclo</Ciclo>
+    </Usuario>
+
+</Registros>

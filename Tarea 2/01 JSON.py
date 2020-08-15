@@ -1,14 +1,20 @@
-#todo dentro de corchetes es una lista
-#todo dentro de llaves es un objeto
-
 import json
 
-def readJson():     #Definir una funcion
-    file = open("RegistrosJSON.json")
-    data = json.load(file)
-    file.close()
-    return data
+def LeerJson():
+    archivo = open("RegistrosJSON.json")        #Obtener acceso al archivo
+    registros = json.load(archivo)              #Cargar datos del archivo
+    archivo.close()                             #Cerrar el flujo de datos
+    return registros                            #Retornar los datos obtenidos
 
-diccionario = readJson()
-for element in diccionario:
-    print(element)
+diccionario = LeerJson()                        #Obtener los datos
+
+print("---------------------------------------------------------------------")
+print("                          REGISTROS JSON                              ")
+print("---------------------------------------------------------------------")
+
+i = 0
+for element in diccionario:                     #Mostrar la lista
+    i+=1
+    print(f"* Registro: {i}")
+    print(f"    {element}")
+
