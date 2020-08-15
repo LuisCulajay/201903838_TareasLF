@@ -1,0 +1,26 @@
+[
+  {
+    "Nombre": "Luis",
+    "Apellido": "Culajay",
+    "Edad": 19,
+    "Nacionalidad": "guatemalteco"
+  },
+  {
+    "Nombre": "Jose",
+    "Apellido": "Ramirez",
+    "Edad": 25,
+    "Nacionalidad": "argentino"
+  },
+  {
+    "Nombre": "Pablo",
+    "Apellido": "Castillo",
+    "Edad": 30,
+    "Nacionalidad": "español"
+  },
+  {
+    "Nombre": "Amarilys",
+    "Apellido": "Sandoval",
+    "Edad": 55,
+    "Nacionalidad": "venezolana"
+  }
+]
