@@ -44,7 +44,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager" selected="Python.main">
     <configuration name="01 CSV" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -154,9 +154,9 @@
     </configuration>
     <list>
       <item itemvalue="Python.Tarea 2" />
+      <item itemvalue="Python.01 CSV" />
       <item itemvalue="Python.01 JSON" />
       <item itemvalue="Python.01 XML" />
-      <item itemvalue="Python.01 CSV" />
       <item itemvalue="Python.main" />
     </list>
     <recent_temporary>
@@ -189,6 +189,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="137" y="39" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597507081111">
@@ -199,25 +200,25 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="463" y="151" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1597507077023" />
-    <state width="1345" height="241" key="GridCell.Tab.0.bottom" timestamp="1597541535744">
+    <state width="1343" height="247" key="GridCell.Tab.0.bottom" timestamp="1597606234956">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="241" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1597541535744" />
-    <state width="1345" height="241" key="GridCell.Tab.0.center" timestamp="1597541535744">
+    <state width="1343" height="247" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1597606234956" />
+    <state width="1343" height="247" key="GridCell.Tab.0.center" timestamp="1597606234956">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="241" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1597541535744" />
-    <state width="1345" height="241" key="GridCell.Tab.0.left" timestamp="1597541535744">
+    <state width="1343" height="247" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1597606234956" />
+    <state width="1343" height="247" key="GridCell.Tab.0.left" timestamp="1597606234956">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="241" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1597541535744" />
-    <state width="1345" height="241" key="GridCell.Tab.0.right" timestamp="1597541535744">
+    <state width="1343" height="247" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1597606234956" />
+    <state width="1343" height="247" key="GridCell.Tab.0.right" timestamp="1597606234956">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="241" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1597541535744" />
-    <state x="135" y="20" key="SettingsEditor" timestamp="1597533182395">
+    <state width="1343" height="247" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1597606234956" />
+    <state x="230" y="34" key="SettingsEditor" timestamp="1597597845678">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="135" y="20" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1597533182395" />
+    <state x="230" y="34" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1597597845678" />
   </component>
 </project>
