@@ -22,6 +22,8 @@ for element in diccionario:                     #Mostrar la lista
     print(f"* Registro: {i}")
     print(f"    {element}")
 
+print(f"- Tipo de la estructura de dato: {type(diccionario)}")
+
 #-----------------------------------------------------------------------------------------------------------------------
 
 archivo = minidom.parse("RegistrosXML.xml")                                         #Obtener acceso al archivo y parsearlo
@@ -45,6 +47,8 @@ for i in registros:
     print(f"    Facultad: {facultad.firstChild.data}")
     print(f"    Ciclo: {ciclo.firstChild.data}")
 
+print(f"- Tipo de la estructura de dato: {type(registros)}")
+
 #-----------------------------------------------------------------------------------------------------------------------
 
 with open("RegistrosCSV.csv") as archivo:
@@ -63,3 +67,5 @@ with open("RegistrosCSV.csv") as archivo:
         print(f"    País: {i[1]}")
         print(f"    Codigo de Área: {i[2]}")
         print(f"    Presidente: {i[3]}")
+
+print(f"Tipo de la estructura de dato: {type(registros)}")
