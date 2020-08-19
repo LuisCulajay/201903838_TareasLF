@@ -18,4 +18,3 @@ def registros():
         i += 1
         print(f"* Registro: {i}")
         print(f"    {element}")
-
