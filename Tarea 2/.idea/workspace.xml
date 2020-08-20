@@ -43,7 +43,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/RegistrosCSV.csv" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/JSON.py" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager" selected="Python.main">
@@ -219,26 +219,26 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="137" y="39" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1597507081111" />
-    <state x="463" y="151" key="FileChooserDialogImpl" timestamp="1597933720165">
+    <state x="463" y="151" key="FileChooserDialogImpl" timestamp="1597934240094">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="463" y="151" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1597933720165" />
-    <state width="1343" height="247" key="GridCell.Tab.0.bottom" timestamp="1597801153376">
+    <state x="463" y="151" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1597934240094" />
+    <state width="1343" height="247" key="GridCell.Tab.0.bottom" timestamp="1597936586138">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1343" height="247" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1597801153376" />
-    <state width="1343" height="247" key="GridCell.Tab.0.center" timestamp="1597801153376">
+    <state width="1343" height="247" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1597936586138" />
+    <state width="1343" height="247" key="GridCell.Tab.0.center" timestamp="1597936586137">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1343" height="247" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1597801153376" />
-    <state width="1343" height="247" key="GridCell.Tab.0.left" timestamp="1597801153375">
+    <state width="1343" height="247" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1597936586137" />
+    <state width="1343" height="247" key="GridCell.Tab.0.left" timestamp="1597936586137">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1343" height="247" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1597801153375" />
-    <state width="1343" height="247" key="GridCell.Tab.0.right" timestamp="1597801153376">
+    <state width="1343" height="247" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1597936586137" />
+    <state width="1343" height="247" key="GridCell.Tab.0.right" timestamp="1597936586138">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1343" height="247" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1597801153376" />
+    <state width="1343" height="247" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1597936586138" />
     <state x="230" y="34" key="SettingsEditor" timestamp="1597597845678">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
