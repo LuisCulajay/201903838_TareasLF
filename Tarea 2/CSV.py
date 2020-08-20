@@ -17,3 +17,5 @@ def registros():
             print(f"    País: {i[1]}")
             print(f"    Codigo de Área: {i[2]}")
             print(f"    Presidente: {i[3]}")
+
+        print(f"Tipo de estructura de dato: {type(registros)}")

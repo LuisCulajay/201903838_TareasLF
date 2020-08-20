@@ -20,3 +20,5 @@ def registros():
         print(f"    Universidad: {universidad.firstChild.data}")
         print(f"    Facultad: {facultad.firstChild.data}")
         print(f"    Ciclo: {ciclo.firstChild.data}")
+
+    print(f"Tipo de estructura de dato: {type(registros)}")

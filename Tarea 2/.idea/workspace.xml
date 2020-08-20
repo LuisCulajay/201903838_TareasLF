@@ -43,7 +43,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/JSON.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/RegistrosCSV.csv" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager" selected="Python.main">
@@ -178,8 +178,8 @@
       <item itemvalue="Python.01 CSV" />
       <item itemvalue="Python.01 JSON" />
       <item itemvalue="Python.01 XML" />
-      <item itemvalue="Python.main" />
       <item itemvalue="Python.XML" />
+      <item itemvalue="Python.main" />
     </list>
     <recent_temporary>
       <list>
@@ -219,10 +219,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="137" y="39" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1597507081111" />
-    <state x="463" y="151" key="FileChooserDialogImpl" timestamp="1597801124082">
+    <state x="463" y="151" key="FileChooserDialogImpl" timestamp="1597933720165">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="463" y="151" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1597801124082" />
+    <state x="463" y="151" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1597933720165" />
     <state width="1343" height="247" key="GridCell.Tab.0.bottom" timestamp="1597801153376">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
