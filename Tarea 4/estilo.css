@@ -1,0 +1,49 @@
+h1{
+    color:ghostwhite;
+    font-family: arial;
+    font-size: 40px;
+    text-align: center;
+}
+
+table{
+    text-align: center;
+}
+
+body{
+    text-align: center;
+    background-color: rgb(3, 48, 48);
+    font-family: Arial;
+}
+
+#tabla{
+    width: 600px;
+    margin: 150px auto;
+    margin-top: 50px
+}
+
+table{
+    text-align: center;
+    width: 100%;
+    border-collapse: collapse;
+    background-color: white;
+}
+
+th, td{
+    padding: 20px;
+}
+
+thead{
+    background-color: teal;
+    color: white;
+    border-bottom: 5px black;
+    font-size: 22px;
+}
+
+tr:nth-child(even){
+    background-color: #ddd;
+}
+
+tr:hover td{
+    background-color: rgb(135, 190, 192);
+
+}

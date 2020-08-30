@@ -1,6 +1,7 @@
 import json
 
 def registros():
+
     def LeerJson():
         archivo = open("RegistrosJSON.json")  # Obtener acceso al archivo
         registros = json.load(archivo)  # Cargar datos del archivo
@@ -20,3 +21,5 @@ def registros():
         print(f"    {element}")
 
     print(f"Tipo de estructura de dato: {type(diccionario)}")
+
+registros()

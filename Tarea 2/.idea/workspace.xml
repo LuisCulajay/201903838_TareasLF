@@ -43,11 +43,19 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/JSON.py" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../201903838PracticaUnica" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.main">
-    <configuration name="01 CSV" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\luisf\OneDrive\Documentos\USAC\CUARTO SEMESTRE\LENGUAJES FORMALES\LABORATORIO\201903838PracticaUnica" />
+      <recent name="C:\Users\luisf\OneDrive\Documentos\USAC\CUARTO SEMESTRE\LENGUAJES FORMALES\LABORATORIO\201903838_TareasLFP" />
+      <recent name="C:\Users\luisf\OneDrive\Documentos\USAC\CUARTO SEMESTRE\LENGUAJES FORMALES\LABORATORIO\201903838_TareasLFP\Tarea 2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.201903838_PracticaUnica">
+    <configuration name="201903838_PracticaUnica" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Tarea 2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -55,11 +63,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../201903838PracticaUnica" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01 CSV.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../201903838PracticaUnica/201903838_PracticaUnica.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -68,7 +76,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="01 JSON" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="For" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Tarea 2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -76,11 +84,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../../../../../Escritorio/Prueba Phyton/Ciclos" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01 JSON.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../../../../../Escritorio/Prueba Phyton/Ciclos/For.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -89,7 +97,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="01 XML" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="JSON" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Tarea 2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -101,7 +109,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01 XML.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JSON.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -131,7 +139,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="XML" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="algo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Tarea 2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -139,11 +147,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../201903838PracticaUnica" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/XML.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../201903838PracticaUnica/algo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,7 +160,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="pruebaJson" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Tarea 2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -164,7 +172,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pruebaJson.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -175,19 +183,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.Tarea 2" />
-      <item itemvalue="Python.01 CSV" />
-      <item itemvalue="Python.01 JSON" />
-      <item itemvalue="Python.01 XML" />
-      <item itemvalue="Python.XML" />
-      <item itemvalue="Python.main" />
+      <item itemvalue="Python.201903838_PracticaUnica" />
+      <item itemvalue="Python.For" />
+      <item itemvalue="Python.JSON" />
+      <item itemvalue="Python.algo" />
+      <item itemvalue="Python.pruebaJson" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.XML" />
-        <item itemvalue="Python.01 JSON" />
-        <item itemvalue="Python.01 XML" />
-        <item itemvalue="Python.01 CSV" />
+        <item itemvalue="Python.201903838_PracticaUnica" />
+        <item itemvalue="Python.pruebaJson" />
+        <item itemvalue="Python.JSON" />
+        <item itemvalue="Python.algo" />
+        <item itemvalue="Python.For" />
       </list>
     </recent_temporary>
   </component>
@@ -215,33 +223,62 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="137" y="39" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597507081111">
+    <state x="137" y="6" width="1092" height="762" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598414078970">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="137" y="39" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1597507081111" />
-    <state x="463" y="151" key="FileChooserDialogImpl" timestamp="1597934240094">
+    <state x="137" y="6" width="1092" height="762" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1598414078970" />
+    <state x="463" y="151" key="FileChooserDialogImpl" timestamp="1598415167105">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="463" y="151" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1597934240094" />
-    <state width="1343" height="247" key="GridCell.Tab.0.bottom" timestamp="1597936586138">
+    <state x="463" y="151" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1598415167105" />
+    <state width="1343" height="279" key="GridCell.Tab.0.bottom" timestamp="1598402878473">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1343" height="247" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1597936586138" />
-    <state width="1343" height="247" key="GridCell.Tab.0.center" timestamp="1597936586137">
+    <state width="1343" height="279" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1598402878473" />
+    <state width="1343" height="279" key="GridCell.Tab.0.center" timestamp="1598402878473">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1343" height="247" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1597936586137" />
-    <state width="1343" height="247" key="GridCell.Tab.0.left" timestamp="1597936586137">
+    <state width="1343" height="279" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1598402878473" />
+    <state width="1343" height="279" key="GridCell.Tab.0.left" timestamp="1598402878473">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1343" height="247" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1597936586137" />
-    <state width="1343" height="247" key="GridCell.Tab.0.right" timestamp="1597936586138">
+    <state width="1343" height="279" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1598402878473" />
+    <state width="1343" height="279" key="GridCell.Tab.0.right" timestamp="1598402878473">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1343" height="247" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1597936586138" />
-    <state x="230" y="34" key="SettingsEditor" timestamp="1597597845678">
+    <state width="1343" height="279" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1598402878473" />
+    <state width="1343" height="255" key="GridCell.Tab.1.bottom" timestamp="1598401650931">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="230" y="34" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1597597845678" />
+    <state width="1343" height="255" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1598401650931" />
+    <state width="1343" height="255" key="GridCell.Tab.1.center" timestamp="1598401650930">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1343" height="255" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1598401650930" />
+    <state width="1343" height="255" key="GridCell.Tab.1.left" timestamp="1598401650930">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1343" height="255" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1598401650930" />
+    <state width="1343" height="255" key="GridCell.Tab.1.right" timestamp="1598401650931">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1343" height="255" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1598401650931" />
+    <state x="230" y="34" key="SettingsEditor" timestamp="1598388687972">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="230" y="34" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1598388687972" />
+    <state x="346" y="89" width="670" height="58" key="search.everywhere.popup" timestamp="1598367932011">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="346" y="89" width="670" height="58" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1598367932011" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="listaConsulta[cantidadCaracteres - 1]" />
+        <watch expression="archivosCargados" />
+        <watch expression="palabra" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
