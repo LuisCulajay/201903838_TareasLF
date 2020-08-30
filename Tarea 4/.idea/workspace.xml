@@ -163,32 +163,21 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="417" y="185" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768@0.0.1366.768" timestamp="1598793070404" />
-    <state width="1343" height="191" key="GridCell.Tab.0.bottom" timestamp="1598795349499">
+    <state width="1343" height="191" key="GridCell.Tab.0.bottom" timestamp="1598795827274">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1343" height="191" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1598795349499" />
-    <state width="1343" height="191" key="GridCell.Tab.0.center" timestamp="1598795349499">
+    <state width="1343" height="191" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1598795827274" />
+    <state width="1343" height="191" key="GridCell.Tab.0.center" timestamp="1598795827274">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1343" height="191" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1598795349499" />
-    <state width="1343" height="191" key="GridCell.Tab.0.left" timestamp="1598795349499">
+    <state width="1343" height="191" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1598795827274" />
+    <state width="1343" height="191" key="GridCell.Tab.0.left" timestamp="1598795827274">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1343" height="191" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1598795349499" />
-    <state width="1343" height="191" key="GridCell.Tab.0.right" timestamp="1598795349499">
+    <state width="1343" height="191" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1598795827274" />
+    <state width="1343" height="191" key="GridCell.Tab.0.right" timestamp="1598795827274">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1343" height="191" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1598795349499" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state width="1343" height="191" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1598795827274" />
   </component>
 </project>

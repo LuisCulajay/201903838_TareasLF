@@ -68,7 +68,6 @@ def llenarListas():
     objetos[7].append("Q.10")
     objetos[8].append("Q.70")
     objetos[9].append("Q.3000")
-
 def generarHTML():
     print("***** REPORTE EN HTML *****")
 
@@ -95,19 +94,16 @@ def generarHTML():
                     <th>NOMBRE</th>
                     <th>EDAD</th>
                     <th>ACTIVO</th>
-                    <th>PROMEDIO</th>
+                    <th>SALDO</th>
                 </tr>
             </thead>
             <tbody>"""
 
     for indice in range(0, 10):         #Ciclo que recorre desde 0 hasta la cantidad de reportes requeridos - 1
+        mensaje = mensaje + "<tr>"      #Etiqueta que abre cada fila/registro
         for posicion in range(0,4):     #Ciclo que recorre el interior de cada elemento -1
-            mensaje = mensaje + "<tr>"
-            mensaje = mensaje + "<td>" + str(objetos[indice][posicion]) + "</td>"  #Armar todas las etiquetas fila por fila de la tabla "nombre"
-            mensaje = mensaje + "<td>" + str(objetos[indice][posicion]) + "</td>"  #"edad"
-            mensaje = mensaje + "<td>" + str(objetos[indice][posicion]) + "</td>"  #"activo"
-            mensaje = mensaje + "<td>" + str(objetos[indice][posicion]) + "</td>"  #"saldo"
-            mensaje = mensaje + "</tr>"
+            mensaje = mensaje + "<td>" + str(objetos[indice][posicion]) + "</td>"  #Armar todas las columnas una a una "nombre,edad,activo,saldo"
+        mensaje = mensaje + "</tr>"     #Etiqueta que cierra cada fila/registro
 
     mensaje = mensaje + "</tbody></table></div></body></html>"  #Terminar de concatenar las etiquetas de cierre del documento
 
@@ -117,8 +113,6 @@ def generarHTML():
     webbrowser.open(            #Abrir documento en el explorador
         'index.html'
     )
-
-print("---------------------------------------------------------------------")
 
 llenarListas()
 generarHTML()
