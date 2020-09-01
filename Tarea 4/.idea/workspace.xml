@@ -157,6 +157,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="417" y="185" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598793070404">
