@@ -1,4 +1,4 @@
-cadena1 = "__s1"
+cadena1 = "__servidor1"
 cadena2 = "3servidor"
 
 letras = ('a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'ñ', 'o', 'p', 'q', 'r', 's', 't', 'u',
