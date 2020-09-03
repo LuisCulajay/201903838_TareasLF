@@ -36,14 +36,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Tarea 5" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\luisf\OneDrive\Documentos\USAC\CUARTO SEMESTRE\LENGUAJES FORMALES\LABORATORIO\201903838_TareasLFP\Tarea 5" />
+      <recent name="C:\Users\luisf\OneDrive\Documentos\USAC\CUARTO SEMESTRE\LENGUAJES FORMALES\LABORATORIO" />
       <recent name="C:\Users\luisf\OneDrive\Documentos\USAC\CUARTO SEMESTRE\LENGUAJES FORMALES\LABORATORIO\201903838_TareasLFP\Tarea 4" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.201903838_Tarea4">
+  <component name="RunManager" selected="Python.Automata">
     <configuration name="201903838_Tarea4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Tarea 4" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -65,7 +67,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="201903838_Tarea#4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Automata" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="201903838PracticaUnica" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Tarea 5" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Tarea 5/Automata.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Automata1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Tarea 4" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -77,7 +100,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/201903838_Tarea#4" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Automata1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -107,7 +130,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="prueba" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="prueba (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="201903838PracticaUnica" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Tarea 5" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Tarea 5/prueba.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="prueba11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Tarea 4" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -119,7 +163,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prueba.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prueba11.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,9 +174,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Automata" />
+        <item itemvalue="Python.prueba (1)" />
+        <item itemvalue="Python.Automata1" />
+        <item itemvalue="Python.prueba11" />
         <item itemvalue="Python.201903838_Tarea4" />
-        <item itemvalue="Python.201903838_Tarea#4" />
-        <item itemvalue="Python.prueba" />
       </list>
     </recent_temporary>
   </component>
@@ -164,21 +210,56 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="417" y="185" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768@0.0.1366.768" timestamp="1598793070404" />
-    <state width="1343" height="191" key="GridCell.Tab.0.bottom" timestamp="1598965139632">
+    <state x="462" y="138" key="FileChooserDialogImpl" timestamp="1599167035314">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1343" height="191" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1598965139632" />
-    <state width="1343" height="191" key="GridCell.Tab.0.center" timestamp="1598965139632">
+    <state x="462" y="138" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1599167035314" />
+    <state width="1343" height="260" key="GridCell.Tab.0.bottom" timestamp="1599169549649">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1343" height="191" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1598965139632" />
-    <state width="1343" height="191" key="GridCell.Tab.0.left" timestamp="1598965139631">
+    <state width="1343" height="260" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1599169549649" />
+    <state width="1343" height="260" key="GridCell.Tab.0.center" timestamp="1599169549649">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1343" height="191" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1598965139631" />
-    <state width="1343" height="191" key="GridCell.Tab.0.right" timestamp="1598965139632">
+    <state width="1343" height="260" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1599169549649" />
+    <state width="1343" height="260" key="GridCell.Tab.0.left" timestamp="1599169549649">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1343" height="191" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1598965139632" />
+    <state width="1343" height="260" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1599169549649" />
+    <state width="1343" height="260" key="GridCell.Tab.0.right" timestamp="1599169549649">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1343" height="260" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1599169549649" />
+    <state width="1343" height="238" key="GridCell.Tab.1.bottom" timestamp="1599169171959">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1343" height="238" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1599169171959" />
+    <state width="1343" height="238" key="GridCell.Tab.1.center" timestamp="1599169171959">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1343" height="238" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1599169171959" />
+    <state width="1343" height="238" key="GridCell.Tab.1.left" timestamp="1599169171959">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1343" height="238" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1599169171959" />
+    <state width="1343" height="238" key="GridCell.Tab.1.right" timestamp="1599169171959">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1343" height="238" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1599169171959" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1599166451677">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1599166451677" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../Tarea 5/prueba.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
