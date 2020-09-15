@@ -36,7 +36,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Tarea 5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../201903838Proyecto1" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -45,28 +45,7 @@
       <recent name="C:\Users\luisf\OneDrive\Documentos\USAC\CUARTO SEMESTRE\LENGUAJES FORMALES\LABORATORIO\201903838_TareasLFP\Tarea 4" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Automata">
-    <configuration name="201903838_Tarea4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Tarea 4" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/201903838_Tarea4.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.HT1">
     <configuration name="Automata" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="201903838PracticaUnica" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -101,6 +80,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Automata1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="HT1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="201903838PracticaUnica" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Tarea 6" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Tarea 6/HT1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -174,11 +174,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.HT1" />
         <item itemvalue="Python.Automata" />
         <item itemvalue="Python.prueba (1)" />
         <item itemvalue="Python.Automata1" />
         <item itemvalue="Python.prueba11" />
-        <item itemvalue="Python.201903838_Tarea4" />
       </list>
     </recent_temporary>
   </component>
@@ -210,26 +210,26 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="417" y="185" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768@0.0.1366.768" timestamp="1598793070404" />
-    <state x="462" y="138" key="FileChooserDialogImpl" timestamp="1599167035314">
+    <state x="462" y="138" key="FileChooserDialogImpl" timestamp="1600188635861">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="462" y="138" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1599167035314" />
-    <state width="1343" height="260" key="GridCell.Tab.0.bottom" timestamp="1599169549649">
+    <state x="462" y="138" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1600188635861" />
+    <state width="1343" height="242" key="GridCell.Tab.0.bottom" timestamp="1600140652739">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1343" height="260" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1599169549649" />
-    <state width="1343" height="260" key="GridCell.Tab.0.center" timestamp="1599169549649">
+    <state width="1343" height="242" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1600140652739" />
+    <state width="1343" height="242" key="GridCell.Tab.0.center" timestamp="1600140652739">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1343" height="260" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1599169549649" />
-    <state width="1343" height="260" key="GridCell.Tab.0.left" timestamp="1599169549649">
+    <state width="1343" height="242" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1600140652739" />
+    <state width="1343" height="242" key="GridCell.Tab.0.left" timestamp="1600140652738">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1343" height="260" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1599169549649" />
-    <state width="1343" height="260" key="GridCell.Tab.0.right" timestamp="1599169549649">
+    <state width="1343" height="242" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1600140652738" />
+    <state width="1343" height="242" key="GridCell.Tab.0.right" timestamp="1600140652739">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1343" height="260" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1599169549649" />
+    <state width="1343" height="242" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1600140652739" />
     <state width="1343" height="238" key="GridCell.Tab.1.bottom" timestamp="1599169171959">
       <screen x="0" y="0" width="1366" height="768" />
     </state>

@@ -25,7 +25,6 @@ tk_Numero = list()
 tk_Cadena = list()
 tk_Boolean = list()
 
-
 def esLetra(letra):
     for caracter in letras:
         if letra == caracter:
