@@ -78,7 +78,6 @@ def automata(cadena):
                 tk_Simbolos.append(letra)
             else:
                 palabra += letra
-                estado = 3
         elif estado == 4:
             if letra == "=":
                 estado = 5
